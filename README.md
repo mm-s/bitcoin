@@ -1,3 +1,7 @@
+DICO
+DIstributed COmputing library
+=============================
+
 Bitcoin Core integration/staging tree
 =====================================
 
